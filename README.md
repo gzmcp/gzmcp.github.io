@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="right">
   <a href="https://github.com/cotes2020/jekyll-theme-chirpy#readme">EN</a> |
   <a href="https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md">中文 (简体)</a>
@@ -248,3 +249,6 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 
 [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [cn-donation]: https://cotes.gitee.io/alipay-wechat-donation/
+=======
+# gzmcp.github.io
+>>>>>>> 117287b3a04c2b9a9d34bb5cd6e3322000f458ba
