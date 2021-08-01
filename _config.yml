@@ -55,6 +55,12 @@ social:
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # ↑ --------------------------
 
 
